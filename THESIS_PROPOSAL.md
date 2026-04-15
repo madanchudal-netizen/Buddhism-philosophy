@@ -20,7 +20,7 @@
 6. [Research Questions](#6-research-questions)
 7. [Research Objectives](#7-research-objectives)
 8. [Research Methodology](#8-research-methodology)
-9. [References (70 Genuine Sources)](#9-references)
+9. [References (77 Genuine Sources)](#9-references)
 
 ---
 
@@ -162,6 +162,10 @@ The central problem, therefore, is: **In what ways do the philosophical concepts
 
 6. **RQ6:** How do contemporary factors — modernization, urbanization, globalization, and political change — affect the capacity of Dharma and Karuṇā to catalyze social cohesion in Jhapa?
 
+7. **RQ7 (Quantitative):** To what extent do self-reported understandings and practices of Dharma and Karuṇā predict levels of social cohesion among Hindu and Buddhist communities in Jhapa?
+
+8. **RQ8 (Mixed Methods):** How do qualitative philosophical insights about dharma-karuṇā syncretism converge with or diverge from quantitative patterns of social cohesion in Jhapa?
+
 ---
 
 ## 7. Research Objectives
@@ -183,25 +187,53 @@ To investigate and analyze the role of philosophical syncretism between Hindu an
 
 6. **SO6:** To analyze the impact of contemporary factors (modernization, urbanization, globalization, and political change) on the cohesive function of Dharma and Karuṇā in Jhapa.
 
+7. **SO7 (Quantitative):** To empirically test, through survey research, the extent to which self-reported dharma practice, karuṇā practice, and perceived philosophical syncretism predict social cohesion among Hindu and Buddhist communities in Jhapa.
+
+8. **SO8 (Mixed Methods):** To integrate qualitative philosophical findings with quantitative survey results, producing meta-inferences about the role of dharma-karuṇā syncretism in social cohesion that neither method alone could achieve.
+
 ---
 
 ## 8. Research Methodology
 
 ### 8.1 Research Philosophy (Paradigm)
 
-This study adopts an **interpretive-hermeneutic paradigm**, consistent with the philosophical nature of the inquiry. The interpretive approach holds that reality is socially constructed and can be understood through the interpretation of meanings, beliefs, and practices (Creswell & Poth, 2018). The hermeneutic dimension — drawing on Gadamer's (1975) philosophical hermeneutics — emphasizes the interpretation of texts, traditions, and lived experience within their historical and cultural horizons.
+This study adopts a **pragmatist paradigm** (Creswell & Plano Clark, 2018; Morgan, 2007), which holds that the research question determines the method and that multiple epistemological approaches can be combined to produce richer understanding. Within this pragmatist frame, the study draws on two complementary philosophical orientations:
 
-This paradigm is appropriate because the study seeks to **understand meanings** (how people understand dharma and karuṇā), **interpret practices** (how philosophical syncretism manifests in social life), and **analyze concepts** (the philosophical structure of dharma, karuṇā, and their syncretic intersection).
+1. **Interpretive-hermeneutic orientation** (for the qualitative strand): Reality is socially constructed and can be understood through the interpretation of meanings, beliefs, and practices (Creswell & Poth, 2018). Drawing on Gadamer's (1975) philosophical hermeneutics, this orientation emphasizes the interpretation of texts, traditions, and lived experience within their historical and cultural horizons.
+
+2. **Post-positivist orientation** (for the quantitative strand): Social phenomena can be measured and patterns identified through systematic data collection and statistical analysis (Creswell & Plano Clark, 2018). This allows the "catalyst" claim — that dharma and karuṇā promote social cohesion — to be empirically tested across a broader population.
+
+The pragmatist paradigm is philosophically justified in this study because:
+- **Buddhist epistemology** itself recognizes multiple valid means of knowledge (*pramāṇa*) — direct perception (*pratyakṣa*), inference (*anumāna*), and testimony (*śabda*). A mixed methods approach mirrors this pluralistic epistemology.
+- **Dharmic inquiry** has always been both contemplative (qualitative/hermeneutic) and empirical (observation of natural law). A mixed approach honors this tradition.
+- **Habermas's communicative rationality** (already in the theoretical framework) supports both interpretive understanding (*Verstehen*) and empirical validation.
+- The research questions have both **interpretive dimensions** (understanding meanings of dharma and karuṇā) and **measurable dimensions** (testing whether dharma/karuṇā predict social cohesion).
 
 ### 8.2 Research Design
 
-The study employs a **qualitative research design** combining:
+The study employs an **Exploratory Sequential Mixed Methods Design (QUAL → QUAN → Integration)** (Creswell & Plano Clark, 2018), with the **qualitative strand as the dominant/primary component** (denoted QUAL → quan). This design is the most appropriate because philosophy requires deep qualitative understanding *first*, followed by broader quantitative validation. The quantitative component supplements and validates — it does not replace — the philosophical core.
+
+#### Phase 1 — QUALITATIVE (Primary, Philosophical Core)
 
 1. **Philosophical Analysis:** Textual and conceptual analysis of primary philosophical sources (Vedas, Upaniṣads, Bhagavad Gītā, Dharmaśāstras, Pāli Canon, Mahāyāna sūtras, Śāntideva's Bodhicaryāvatāra, Nāgārjuna's Mūlamadhyamakakārikā) to establish the philosophical frameworks of dharma and karuṇā in both traditions.
 
 2. **Phenomenological-Hermeneutic Inquiry:** Field-based qualitative inquiry to understand how dharma and karuṇā are experienced, interpreted, and practiced by Hindu and Buddhist communities in Jhapa.
 
 3. **Comparative Philosophy:** Systematic comparison of Hindu and Buddhist conceptualizations to identify syncretic convergences and divergences.
+
+**Purpose:** Develop deep philosophical understanding of dharma-karuṇā syncretism, identify key themes, and construct a conceptual model of how these concepts relate to social cohesion.
+
+#### Phase 2 — QUANTITATIVE (Supplementary, Empirical Validation)
+
+4. **Survey Research:** A structured questionnaire (developed from Phase 1 qualitative findings) administered to a broader sample to empirically test whether self-reported understandings and practices of dharma and karuṇā correlate with and predict social cohesion.
+
+**Purpose:** Test whether the qualitative findings hold across a broader population — i.e., statistically demonstrate that dharma and karuṇā actually correlate with or predict social cohesion in Jhapa.
+
+#### Phase 3 — INTEGRATION (Meta-Inference)
+
+5. **Mixed Methods Integration:** Systematic comparison and integration of qualitative themes with quantitative findings to produce meta-inferences that neither method alone could achieve (Fetters et al., 2013).
+
+**Purpose:** Produce conclusions that are both deeply meaningful (qualitative) and broadly supported (quantitative).
 
 ### 8.3 Study Area
 
@@ -217,6 +249,8 @@ Specific sites within Jhapa will be selected purposively based on the presence o
 
 **Target Population:** Hindu and Buddhist religious leaders, community elders, philosophers, practitioners, and lay community members in Jhapa District.
 
+#### 8.4.1 Qualitative Sampling (Phase 1)
+
 **Sampling Strategy:** **Purposive sampling** (criterion-based and maximum variation sampling):
 
 | Participant Category | Criteria | Approximate Number |
@@ -227,7 +261,23 @@ Specific sites within Jhapa will be selected purposively based on the presence o
 | Lay practitioners (Hindu-identifying) | Active participants in religious/social life | 10–12 |
 | Lay practitioners (Buddhist-identifying) | Active participants in religious/social life | 10–12 |
 | Lay practitioners (dual/syncretic identity) | Individuals who identify with both traditions | 5–8 |
-| **Total** | | **49–62** |
+| **Total (Qualitative)** | | **49–62** |
+
+#### 8.4.2 Quantitative Sampling (Phase 2)
+
+**Sampling Strategy:** **Stratified random sampling** across VDCs/municipalities in Jhapa District, stratified by:
+- Religious identity (Hindu, Buddhist, dual/syncretic)
+- Ethnic group (Brahmin-Chhetri, Limbu, Rai, Tamang, Newar, Madhesi, Tharu)
+- Geographic location within Jhapa (urban, semi-urban, rural)
+
+| Quantitative Sample | Criteria | Approximate Number |
+|---|---|---|
+| Hindu-identifying respondents | Adult (18+), resident of Jhapa | 80–120 |
+| Buddhist-identifying respondents | Adult (18+), resident of Jhapa | 80–120 |
+| Dual/syncretic-identifying respondents | Adult (18+), resident of Jhapa | 40–60 |
+| **Total (Quantitative)** | | **200–300** |
+
+**Sample size justification:** For correlation and regression analyses with 4–6 predictor variables, a minimum of 200 respondents is recommended to achieve adequate statistical power (Tabachnick & Fidell, 2013).
 
 ### 8.5 Data Collection Methods
 
@@ -252,24 +302,63 @@ Specific sites within Jhapa will be selected purposively based on the presence o
 #### 8.5.5 Document Analysis
 - Analysis of local publications, community guidelines, religious pamphlets, and organizational documents from temples, monasteries, and community organizations in Jhapa.
 
+#### 8.5.6 Structured Survey Questionnaire (Phase 2 — Quantitative)
+- A structured questionnaire developed from Phase 1 qualitative themes, comprising approximately 30–40 items.
+- **Section A:** Demographic information (age, gender, ethnicity, religion, education, occupation, location).
+- **Section B:** Dharma Understanding and Practice Scale — Items measuring self-reported understanding, importance, and daily practice of dharma/dhamma concepts (Likert scale, 1–5: Strongly Disagree to Strongly Agree).
+- **Section C:** Karuṇā/Compassion Practice Scale — Items measuring self-reported understanding, importance, and practice of compassion-related values (Likert scale, 1–5).
+- **Section D:** Perceived Philosophical Syncretism Scale — Items measuring perceptions of Hindu-Buddhist philosophical commonality, shared values, and syncretic practice (Likert scale, 1–5).
+- **Section E:** Social Cohesion Scale — Adapted from Schiefer and van der Noll (2017) and Langer et al. (2015), measuring inter-community trust, shared moral norms, sense of belonging, cooperative behavior, and collective identity (Likert scale, 1–5).
+- The questionnaire will be developed in English, translated into Nepali, and back-translated to ensure accuracy.
+- Pilot testing with 20–30 respondents to test reliability (Cronbach's alpha ≥ 0.70) and validity.
+- Administered through face-to-face structured interviews by trained research assistants in Jhapa.
+
 ### 8.6 Data Analysis
 
-#### 8.6.1 For Philosophical/Textual Data:
+#### 8.6.1 For Philosophical/Textual Data (Phase 1):
 - **Hermeneutic analysis** following Gadamer's (1975) method of dialogical interpretation — reading texts within their historical horizons while bringing them into dialogue with the research questions.
 - **Comparative philosophical analysis** to systematically identify convergent and divergent dimensions of dharma and karuṇā across traditions.
 
-#### 8.6.2 For Empirical/Field Data:
+#### 8.6.2 For Empirical/Field Data (Phase 1 — Qualitative):
 - **Thematic analysis** following Braun and Clarke's (2006) six-phase model: familiarization, initial coding, theme generation, theme review, theme definition, and report writing.
 - **Interpretive phenomenological analysis (IPA)** (Smith et al., 2009) to understand participants' lived experiences of dharma and karuṇā.
 - Use of **NVivo** qualitative data analysis software for coding, categorization, and theme development.
 
-### 8.7 Trustworthiness and Rigor
+#### 8.6.3 For Survey Data (Phase 2 — Quantitative):
+- **Descriptive statistics:** Mean, standard deviation, frequency distributions for all scale variables, disaggregated by religion, ethnicity, and location.
+- **Reliability analysis:** Cronbach's alpha for each scale to ensure internal consistency.
+- **Correlation analysis:** Pearson's correlation coefficients to examine relationships between dharma practice, karuṇā practice, perceived syncretism, and social cohesion.
+- **Multiple regression analysis:** Dharma practice, karuṇā practice, and perceived syncretism as predictor variables → social cohesion as the outcome variable, controlling for demographic variables (age, gender, education, ethnicity).
+- **Independent samples t-tests and ANOVA:** To compare mean social cohesion scores across religious groups (Hindu, Buddhist, dual/syncretic) and ethnic groups.
+- **Exploratory factor analysis (EFA):** To validate the structure of the questionnaire scales.
+- Use of **SPSS** (Statistical Package for the Social Sciences) for all quantitative analyses.
 
+#### 8.6.4 Mixed Methods Integration (Phase 3):
+- **Joint display tables** (Fetters et al., 2013) showing how qualitative themes align with (or diverge from) quantitative statistical results — e.g., whether a qualitative theme about karuṇā promoting trust is confirmed by a significant positive correlation between karuṇā practice scores and trust scores.
+- **Convergence/divergence analysis:** Systematic comparison of findings from both strands to identify areas of confirmation, complementarity, expansion, and discordance (Creswell & Plano Clark, 2018).
+- **Meta-inferences:** Drawing overarching conclusions that integrate qualitative depth with quantitative breadth — conclusions that neither method alone could produce.
+- **Narrative integration:** Weaving qualitative quotes and examples with quantitative data in the final discussion to provide a rich, multi-dimensional account.
+
+### 8.7 Trustworthiness, Validity, and Rigor
+
+#### 8.7.1 Qualitative Strand — Trustworthiness
 Following Lincoln and Guba (1985), the study ensures:
 - **Credibility:** Prolonged engagement, triangulation (textual + interview + observation + FGD), member checking.
 - **Transferability:** Thick description of context.
 - **Dependability:** Audit trail, consistent procedures.
 - **Confirmability:** Reflexive journaling, peer debriefing.
+
+#### 8.7.2 Quantitative Strand — Validity and Reliability
+- **Internal validity:** Careful questionnaire design based on qualitative findings; pilot testing; controlling for confounding variables in regression.
+- **Construct validity:** Scales adapted from established instruments (Schiefer & van der Noll, 2017); exploratory factor analysis; expert review.
+- **Reliability:** Cronbach's alpha (≥ 0.70) for all scales.
+- **External validity:** Stratified random sampling to ensure representativeness within Jhapa District.
+
+#### 8.7.3 Mixed Methods — Integration Quality
+Following Tashakkori and Teddlie (2010):
+- **Inference quality:** Logical consistency between qualitative and quantitative inferences.
+- **Inference transferability:** Clear articulation of the boundaries within which integrated findings apply.
+- **Design quality:** Adherence to the exploratory sequential design protocol; Phase 2 instrument built directly from Phase 1 findings.
 
 ### 8.8 Ethical Considerations
 
@@ -283,61 +372,112 @@ Following Lincoln and Guba (1985), the study ensures:
 
 ### 8.9 Limitations
 
-- The study is limited to **Jhapa District** and cannot be generalized to all of Nepal.
+- The study is limited to **Jhapa District** and cannot be generalized to all of Nepal (though the quantitative strand provides generalizability within Jhapa).
 - The philosophical scope is limited to **Hinduism and Buddhism**; other traditions (Islam, Christianity, indigenous animism) are not examined.
-- As a qualitative study, findings are **interpretive** rather than statistically generalizable.
+- The **qualitative strand** produces interpretive findings that are not statistically generalizable; the **quantitative strand** complements this with statistical patterns but cannot capture the philosophical depth of qualitative inquiry.
+- The quantitative instrument is developed from Phase 1 qualitative data, which means it reflects the philosophical categories identified in Jhapa and may not be directly transferable to other contexts without adaptation.
 - Researcher positionality (as an MPhil student in Eastern Philosophy) may influence interpretation; reflexive practices will mitigate this.
+- The mixed methods design requires **more time and resources** than a purely qualitative study; careful project management is needed to ensure both phases are completed within the MPhil timeline.
 
 ### 8.10 Conceptual Framework
 
 ```
-┌───────────────────────────────────────────────────────────────────┐
-│                    PHILOSOPHICAL SYNCRETISM                       │
-│                                                                   │
-│  ┌─────────────────────┐       ┌─────────────────────┐           │
-│  │  HINDU PHILOSOPHY   │       │ BUDDHIST PHILOSOPHY  │           │
-│  │                     │       │                      │           │
-│  │  Dharma (ṛta,       │       │  Dhamma (Noble Path, │           │
-│  │  svadharma,         │◄─────►│  pratītyasamutpāda,  │           │
-│  │  sāmānya dharma)   │       │  śīla)               │           │
-│  │                     │       │                      │           │
-│  │  Karuṇā/Dayā       │       │  Karuṇā/Mahākaruṇā  │           │
-│  │  (ahiṃsā, mercy,   │◄─────►│  (brahmavihāra,      │           │
-│  │  divine quality)    │       │  Bodhisattva ideal)  │           │
-│  └─────────┬───────────┘       └───────────┬──────────┘           │
-│            │                               │                      │
-│            └───────────┬───────────────────┘                      │
-│                        │                                          │
-│                        ▼                                          │
-│           ┌────────────────────────┐                              │
-│           │  SYNCRETIC CONVERGENCE │                              │
-│           │  (Shared ethical ground,│                              │
-│           │  mutual practices,      │                              │
-│           │  common festivals)      │                              │
-│           └────────────┬───────────┘                              │
-│                        │                                          │
-│                        ▼                                          │
-│           ┌────────────────────────┐                              │
-│           │   SOCIAL COHESION      │                              │
-│           │  • Inter-community     │                              │
-│           │    trust               │                              │
-│           │  • Shared moral norms  │                              │
-│           │  • Cooperative behavior│                              │
-│           │  • Collective identity │                              │
-│           │  • Conflict resolution │                              │
-│           └────────────────────────┘                              │
-│                                                                   │
-│  CONTEXT: Jhapa District, Nepal                                   │
-│  MODERATING FACTORS: Modernization, urbanization, globalization,  │
-│  political change, caste dynamics                                 │
-└───────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────┐
+│              EXPLORATORY SEQUENTIAL MIXED METHODS DESIGN                 │
+│              (QUAL → quan → Integration)                                 │
+│                                                                         │
+│  ╔═════════════════════════════════════════════════════════════════════╗ │
+│  ║  PHASE 1: QUALITATIVE (Primary — Philosophical Core)               ║ │
+│  ║                                                                     ║ │
+│  ║  ┌─────────────────────┐       ┌─────────────────────┐             ║ │
+│  ║  │  HINDU PHILOSOPHY   │       │ BUDDHIST PHILOSOPHY  │             ║ │
+│  ║  │                     │       │                      │             ║ │
+│  ║  │  Dharma (ṛta,       │       │  Dhamma (Noble Path, │             ║ │
+│  ║  │  svadharma,         │◄─────►│  pratītyasamutpāda,  │             ║ │
+│  ║  │  sāmānya dharma)   │       │  śīla)               │             ║ │
+│  ║  │                     │       │                      │             ║ │
+│  ║  │  Karuṇā/Dayā       │       │  Karuṇā/Mahākaruṇā  │             ║ │
+│  ║  │  (ahiṃsā, mercy,   │◄─────►│  (brahmavihāra,      │             ║ │
+│  ║  │  divine quality)    │       │  Bodhisattva ideal)  │             ║ │
+│  ║  └─────────┬───────────┘       └───────────┬──────────┘             ║ │
+│  ║            │                               │                        ║ │
+│  ║            └───────────┬───────────────────┘                        ║ │
+│  ║                        │                                            ║ │
+│  ║                        ▼                                            ║ │
+│  ║           ┌────────────────────────┐                                ║ │
+│  ║           │  SYNCRETIC CONVERGENCE │                                ║ │
+│  ║           │  (Shared ethical ground,│                                ║ │
+│  ║           │  mutual practices,      │                                ║ │
+│  ║           │  common festivals)      │                                ║ │
+│  ║           └────────────┬───────────┘                                ║ │
+│  ║                        │                                            ║ │
+│  ║            Methods: Textual analysis, interviews,                   ║ │
+│  ║            FGDs, observation, document analysis                     ║ │
+│  ║            Analysis: Hermeneutic, thematic, IPA                     ║ │
+│  ╚════════════════════════╪════════════════════════════════════════════╝ │
+│                           │                                             │
+│                    Themes inform                                        │
+│                    questionnaire                                        │
+│                           │                                             │
+│  ╔════════════════════════╪════════════════════════════════════════════╗ │
+│  ║  PHASE 2: QUANTITATIVE (Supplementary — Empirical Validation)      ║ │
+│  ║                        │                                            ║ │
+│  ║                        ▼                                            ║ │
+│  ║    ┌──────────────────────────────────────────┐                     ║ │
+│  ║    │  STRUCTURED SURVEY (n = 200–300)          │                     ║ │
+│  ║    │                                          │                     ║ │
+│  ║    │  Predictors:          Outcome:           │                     ║ │
+│  ║    │  • Dharma Practice ──►                   │                     ║ │
+│  ║    │  • Karuṇā Practice ──► SOCIAL COHESION  │                     ║ │
+│  ║    │  • Perceived       ──► (Trust, norms,    │                     ║ │
+│  ║    │    Syncretism         belonging,         │                     ║ │
+│  ║    │                       cooperation,       │                     ║ │
+│  ║    │  Controls:            identity)          │                     ║ │
+│  ║    │  • Age, gender,                          │                     ║ │
+│  ║    │    education,                            │                     ║ │
+│  ║    │    ethnicity                             │                     ║ │
+│  ║    └──────────────────────────────────────────┘                     ║ │
+│  ║    Analysis: Descriptive stats, correlation, regression, ANOVA      ║ │
+│  ╚════════════════════════╪════════════════════════════════════════════╝ │
+│                           │                                             │
+│  ╔════════════════════════╪════════════════════════════════════════════╗ │
+│  ║  PHASE 3: INTEGRATION (Meta-Inference)                              ║ │
+│  ║                        │                                            ║ │
+│  ║                        ▼                                            ║ │
+│  ║    ┌──────────────────────────────────────────┐                     ║ │
+│  ║    │  MIXED METHODS INTEGRATION                │                     ║ │
+│  ║    │  • Joint display tables                  │                     ║ │
+│  ║    │  • Convergence/divergence analysis        │                     ║ │
+│  ║    │  • Meta-inferences                       │                     ║ │
+│  ║    │  • Narrative integration                 │                     ║ │
+│  ║    └──────────────────────────────────────────┘                     ║ │
+│  ║                        │                                            ║ │
+│  ║                        ▼                                            ║ │
+│  ║           ┌────────────────────────┐                                ║ │
+│  ║           │   SOCIAL COHESION      │                                ║ │
+│  ║           │  (Philosophically       │                                ║ │
+│  ║           │   understood AND        │                                ║ │
+│  ║           │   empirically tested)   │                                ║ │
+│  ║           │  • Inter-community     │                                ║ │
+│  ║           │    trust               │                                ║ │
+│  ║           │  • Shared moral norms  │                                ║ │
+│  ║           │  • Cooperative behavior│                                ║ │
+│  ║           │  • Collective identity │                                ║ │
+│  ║           │  • Conflict resolution │                                ║ │
+│  ║           └────────────────────────┘                                ║ │
+│  ╚═════════════════════════════════════════════════════════════════════╝ │
+│                                                                         │
+│  CONTEXT: Jhapa District, Nepal                                         │
+│  MODERATING FACTORS: Modernization, urbanization, globalization,        │
+│  political change, caste dynamics                                       │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## 9. References
 
-The following is a list of **70 genuine academic sources** — peer-reviewed journal articles, books, edited volumes, and institutional publications — relevant to the proposed thesis. These references cover Hindu philosophy, Buddhist philosophy, philosophical syncretism, social cohesion, Nepal studies, and research methodology.
+The following is a list of **77 genuine academic sources** — peer-reviewed journal articles, books, edited volumes, and institutional publications — relevant to the proposed thesis. These references cover Hindu philosophy, Buddhist philosophy, philosophical syncretism, social cohesion, Nepal studies, research methodology, and mixed methods research.
 
 ### Books and Monographs
 
@@ -487,6 +627,22 @@ The following is a list of **70 genuine academic sources** — peer-reviewed jou
 
 70. Hangen, S. (2010). *The Rise of Ethnic Politics in Nepal: Democracy in the Margins*. Routledge.
 
+### Mixed Methods and Quantitative Methodology References
+
+71. Creswell, J. W., & Plano Clark, V. L. (2018). *Designing and Conducting Mixed Methods Research* (3rd ed.). Sage Publications.
+
+72. Tashakkori, A., & Teddlie, C. (Eds.). (2010). *SAGE Handbook of Mixed Methods in Social & Behavioral Research* (2nd ed.). Sage Publications.
+
+73. Johnson, R. B., & Onwuegbuzie, A. J. (2004). Mixed methods research: A research paradigm whose time has come. *Educational Researcher*, 33(7), 14–26.
+
+74. Fetters, M. D., Curry, L. A., & Creswell, J. W. (2013). Achieving integration in mixed methods designs — principles and practices. *Health Services Research*, 48(6pt2), 2134–2156.
+
+75. Morgan, D. L. (2007). Paradigms lost and pragmatism regained: Methodological implications of combining qualitative and quantitative methods. *Journal of Mixed Methods Research*, 1(1), 48–76.
+
+76. Tabachnick, B. G., & Fidell, L. S. (2013). *Using Multivariate Statistics* (6th ed.). Pearson.
+
+77. Field, A. (2018). *Discovering Statistics Using IBM SPSS Statistics* (5th ed.). Sage Publications.
+
 ---
 
 *Note: Some journal articles referenced in the text (e.g., Acharya, 2015 on dharma in Nepal) may appear in regional journals such as the* Journal of Nepal Philosophical Research, Contributions to Nepalese Studies, *or the* European Bulletin of Himalayan Research. *These are legitimate peer-reviewed publications. The researcher is advised to access these through university libraries, JSTOR, Google Scholar, and the Nepal Journals Online (NepJOL) platform.*
@@ -517,6 +673,45 @@ The following is a list of **70 genuine academic sources** — peer-reviewed jou
 3. Ethical discourse in community gatherings
 4. Symbols and practices reflecting syncretic dharma/karuṇā values
 5. Community organizations engaging both Hindu and Buddhist members
+
+### Appendix D: Structured Survey Questionnaire (Draft Outline)
+
+**Section A: Demographic Information**
+1. Age / Gender / Ethnicity / Religion / Education / Occupation / Location (VDC/Municipality)
+
+**Section B: Dharma Understanding and Practice** (Likert Scale 1–5)
+1. I have a clear understanding of what dharma/dhamma means.
+2. Dharma/dhamma plays an important role in my daily decisions.
+3. I believe dharma/dhamma teaches duties that apply to all people, regardless of religion.
+4. I regularly engage in practices I consider dharmic (e.g., truthfulness, charity, righteous conduct).
+5. Dharma/dhamma is relevant to solving problems in my community.
+*(Additional items to be developed from Phase 1 qualitative findings)*
+
+**Section C: Karuṇā/Compassion Practice** (Likert Scale 1–5)
+1. Compassion (karuṇā/dayā) is a core value in my life.
+2. I regularly help others in need, including those from different religious communities.
+3. My religious/philosophical tradition teaches me to be compassionate toward all beings.
+4. I believe compassion can help resolve conflicts between different communities.
+5. I actively practice non-violence (ahiṃsā) in my interactions with others.
+*(Additional items to be developed from Phase 1 qualitative findings)*
+
+**Section D: Perceived Philosophical Syncretism** (Likert Scale 1–5)
+1. Hinduism and Buddhism share many common values and teachings.
+2. The concept of dharma is essentially similar in Hinduism and Buddhism.
+3. Both Hindus and Buddhists in my community practice compassion in similar ways.
+4. I participate in festivals or rituals from both Hindu and Buddhist traditions.
+5. I see more commonalities than differences between Hindu and Buddhist philosophy.
+*(Additional items to be developed from Phase 1 qualitative findings)*
+
+**Section E: Social Cohesion** (Likert Scale 1–5, adapted from Schiefer & van der Noll, 2017)
+1. I trust people from other religious communities in Jhapa.
+2. People in my community share common moral values regardless of religion.
+3. Hindus and Buddhists in my community cooperate well with each other.
+4. I feel a strong sense of belonging to my local community (including people of other religions).
+5. When conflicts arise, people in my community resolve them peacefully through shared values.
+6. I am willing to help my neighbors regardless of their religious identity.
+7. Shared philosophical values (dharma, compassion) bring people together in my community.
+*(Additional items to be developed from Phase 1 qualitative findings)*
 
 ---
 
