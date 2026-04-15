@@ -277,7 +277,7 @@ Specific sites within Jhapa will be selected purposively based on the presence o
 | Dual/syncretic-identifying respondents | Adult (18+), resident of Jhapa | 40–60 |
 | **Total (Quantitative)** | | **200–300** |
 
-**Sample size justification:** For correlation and regression analyses with 4–6 predictor variables, a minimum of 200 respondents is recommended to achieve adequate statistical power (Tabachnick & Fidell, 2013).
+The sample size justification cites 4–6 predictor variables because the regression model includes 3 main predictors (dharma practice, karuṇā practice, perceived syncretism) plus demographic control variables (age, gender, education, ethnicity — up to 4), for a total of approximately **7 predictor variables**. A minimum of 200 respondents is recommended to achieve adequate statistical power for this number of predictors (Tabachnick & Fidell, 2013).
 
 ### 8.5 Data Collection Methods
 

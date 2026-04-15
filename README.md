@@ -15,8 +15,8 @@ This repository contains the thesis proposal and supporting research materials f
   - Research Gap Identification
   - Statement of Problems
   - Research Questions and Objectives
-  - Research Methodology (Interpretive-Hermeneutic, Qualitative)
-  - 70 Genuine Academic References
+  - Research Methodology (Exploratory Sequential Mixed Methods: QUAL → QUAN → Integration)
+  - 77 Genuine Academic References
 
 ### Key Concepts
 
