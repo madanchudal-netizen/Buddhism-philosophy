@@ -20,7 +20,7 @@
 6. [Research Questions](#6-research-questions)
 7. [Research Objectives](#7-research-objectives)
 8. [Research Methodology](#8-research-methodology)
-9. [References (50+ Genuine Sources)](#9-references)
+9. [References (70 Genuine Sources)](#9-references)
 
 ---
 
@@ -337,7 +337,7 @@ Following Lincoln and Guba (1985), the study ensures:
 
 ## 9. References
 
-The following is a list of **55+ genuine academic sources** — peer-reviewed journal articles, books, edited volumes, and institutional publications — relevant to the proposed thesis. These references cover Hindu philosophy, Buddhist philosophy, philosophical syncretism, social cohesion, Nepal studies, and research methodology.
+The following is a list of **70 genuine academic sources** — peer-reviewed journal articles, books, edited volumes, and institutional publications — relevant to the proposed thesis. These references cover Hindu philosophy, Buddhist philosophy, philosophical syncretism, social cohesion, Nepal studies, and research methodology.
 
 ### Books and Monographs
 
