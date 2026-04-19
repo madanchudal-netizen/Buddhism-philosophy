@@ -158,11 +158,11 @@ The aim of this textual-philosophical analysis is **systematic** — to extract 
 
 The second strand involves quantitative survey research to measure the prevalence and patterns of dissatisfaction among youth in Jhapa.
 
-**Study Area:** Jhapa district, Province No. 1, eastern Nepal. Jhapa is selected for its rapid urbanisation, cultural diversity (including communities with Buddhist heritage — Kirat, Limbu, Tamang, Newar), high youth population, and its position as a site where traditional and modern forces intersect.
+**Study Area:** Jhapa district, Province No. 1, eastern Nepal. With a total population of approximately 812,650 (CBS, 2021) and a youth (20–40) population constituting roughly 35% of the total, Jhapa is one of Nepal's most densely populated and rapidly urbanising districts (urbanisation rate approximately 45%). Jhapa is selected for its (a) rapid urbanisation and economic development, (b) cultural diversity including communities with Buddhist heritage — Kirat, Limbu, Tamang, Newar, (c) high youth population, (d) significant exposure to globalised consumer and digital culture, and (e) its position as a site where traditional and modern forces intersect.
 
 **Target Population:** Youth aged 20–40 years residing in Jhapa district.
 
-**Sample Size and Sampling Strategy:** A sample of approximately 385 respondents (calculated using Cochran's formula at 95% confidence level with 5% margin of error), drawn through **stratified random sampling**. Stratification variables include: (a) urban/semi-urban/rural residence within Jhapa, (b) gender, and (c) age sub-groups (20–25, 26–30, 31–35, 36–40) to ensure representation across key demographic categories.
+**Sample Size and Sampling Strategy:** A sample of approximately 385 respondents (calculated using Cochran's formula: n = Z²pq/e², where Z = 1.96 at 95% confidence level, p = 0.5 for maximum variability, q = 0.5, and e = 0.05 margin of error), drawn through **stratified random sampling**. Stratification variables include: (a) urban/semi-urban/rural residence within Jhapa, (b) gender, and (c) age sub-groups (20–25, 26–30, 31–35, 36–40) to ensure representation across key demographic categories.
 
 **Data Collection Instrument:** A structured questionnaire comprising:
 
@@ -177,7 +177,7 @@ The second strand involves quantitative survey research to measure the prevalenc
 
 - **Section D: Buddhist cultural engagement** — Items measuring familiarity with Buddhist concepts, participation in Buddhist practices, and self-reported relevance of Buddhist philosophy to daily life.
 
-**Pilot Testing:** The questionnaire will be pilot-tested with 30 respondents from the target population to assess reliability (Cronbach's alpha), comprehensibility, and cultural appropriateness. Items will be refined based on pilot results.
+**Pilot Testing:** The questionnaire will be pilot-tested with 30 respondents from the target population to assess reliability (Cronbach's alpha ≥ 0.70 as the minimum acceptable threshold; Nunnally & Bernstein, 1994), comprehensibility, and cultural appropriateness. Items with item-total correlations below 0.30 or that reduce scale reliability below the threshold will be revised or removed. The pilot will also assess completion time and identify any culturally ambiguous or sensitive items requiring modification.
 
 **Data Analysis:** Quantitative data will be analysed using descriptive statistics (frequencies, means, standard deviations), inferential statistics (cross-tabulations, chi-square tests, correlation analysis, ANOVA/t-tests for group comparisons), and, where appropriate, factor analysis to identify underlying dimensions of dissatisfaction. Analysis will be conducted using SPSS or equivalent statistical software.
 
@@ -236,7 +236,7 @@ The research will adhere to established ethical principles for research involvin
 
 ### 1.8.5 Note on Translations and Terminology
 
-Throughout this thesis, Pāli terms are used for concepts drawn from the Theravāda tradition (e.g., *dukkha*, *taṇhā*, *paṭiccasamuppāda*, *nibbāna*), and Sanskrit terms are used for concepts drawn from the Mahāyāna tradition (e.g., *duḥkha*, *śūnyatā*, *pratītyasamutpāda*). Where a concept is discussed across both traditions, the Pāli form is used as the default, with the Sanskrit equivalent noted on first occurrence. English translations are provided in parentheses on first use and at key subsequent occurrences. Primary texts are cited from the Pali Text Society (PTS) editions where available, supplemented by Bhikkhu Bodhi's translations for the Saṃyutta Nikāya and Majjhima Nikāya, and by Jay Garfield's translation for Nāgārjuna's *Mūlamadhyamakakārikā*. For the empirical research, survey instruments are administered in Nepali; all translated items cited in the thesis are provided with both Nepali and English versions.
+Throughout this thesis, Pāli terms are used for concepts drawn from the Theravāda tradition (e.g., *dukkha*, *taṇhā*, *paṭiccasamuppāda*, *nibbāna*), and Sanskrit terms are used for concepts drawn from the Mahāyāna tradition (e.g., *duḥkha*, *śūnyatā*, *pratītyasamutpāda*). Where a concept is discussed across both traditions, the Pāli form is used as the default, with the Sanskrit equivalent noted on first occurrence. English translations are provided in parentheses on first use and at key subsequent occurrences. Primary texts are cited from the Pāli Text Society (PTS) editions where available, supplemented by Bhikkhu Bodhi's translations for the Saṃyutta Nikāya and Majjhima Nikāya, and by Jay Garfield's translation for Nāgārjuna's *Mūlamadhyamakakārikā*. For the empirical research, survey instruments are administered in Nepali; all translated items cited in the thesis are provided with both Nepali and English versions.
 
 ## 1.9 Literature Review Summary
 
@@ -312,6 +312,7 @@ The thesis is organised into ten chapters:
 - Bhikkhu Bodhi (Trans.). (2000). *The Connected Discourses of the Buddha: A Translation of the Saṃyutta Nikāya*. Wisdom Publications.
 - Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. *Qualitative Research in Psychology*, 3(2), 77–101.
 - Buddhaghosa. (5th century CE). *Visuddhimagga* [The Path of Purification]. (Bhikkhu Ñāṇamoli, Trans., 1956). Buddhist Publication Society.
+- Central Bureau of Statistics (CBS). (2021). *National Population and Housing Census 2021: National Report*. Government of Nepal.
 - Collins, S. (1982). *Selfless Persons: Imagery and Thought in Theravāda Buddhism*. Cambridge University Press.
 - Creswell, J. W., & Plano Clark, V. L. (2018). *Designing and Conducting Mixed Methods Research* (3rd ed.). SAGE Publications.
 - Denzin, N. K. (1978). *The Research Act: A Theoretical Introduction to Sociological Methods* (2nd ed.). McGraw-Hill.
@@ -327,6 +328,7 @@ The thesis is organised into ten chapters:
 - McMahan, D. (2008). *The Making of Buddhist Modernism*. Oxford University Press.
 - Morrison, R. (1997). *Nietzsche and Buddhism: A Study in Nihilism and Ironic Affinities*. Oxford University Press.
 - Nāgārjuna. (c. 150–250 CE). *Mūlamadhyamakakārikā* [Fundamental Verses on the Middle Way]. (J. Garfield, Trans., 1995). Oxford University Press.
+- Nunnally, J. C., & Bernstein, I. H. (1994). *Psychometric Theory* (3rd ed.). McGraw-Hill.
 - Panaïoti, A. (2012). *Nietzsche and Buddhist Philosophy*. Cambridge University Press.
 - Patton, M. Q. (2015). *Qualitative Research and Evaluation Methods* (4th ed.). SAGE Publications.
 - Purser, R. (2019). *McMindfulness: How Mindfulness Became the New Capitalist Spirituality*. Repeater Books.
