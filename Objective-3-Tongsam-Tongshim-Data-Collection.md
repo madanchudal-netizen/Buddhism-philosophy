@@ -206,7 +206,7 @@ Systematically analyze Mundhum texts — written, transcribed, and recorded — 
 
 Gather all available Mundhum sources:
 - Written Mundhum texts: Rai Mundhum, Limbu Mundhum (Fedangma chants), Chamling Mundhum, Kulung Mundhum
-- Scholarly translations and commentaries: works by Iman Singh Chemjong, Bairagi Kainla, Narad Muni Thulung, Dambar Krishna Shrestha
+- Scholarly translations and commentaries: works by Iman Singh Chemjong (*History and Culture of Kirat People*, 1966), Bairagi Kainla (Mundhum poetry and essays, 1970s–2000s), Narad Muni Thulung (*Mundhum Mythology*, various), Dambar Krishna Shrestha (ethnographic studies on Kirat rituals)
 - Institutional archives: Nepal Pragya Pratisthan, Tribhuvan University Central Library, UNESCO intangible heritage documentation
 - Oral recordings made during field interviews (transcribed and treated as primary text)
 - Published ethnographic accounts referencing Mundhum cosmology
@@ -279,7 +279,7 @@ Compare Tongsam Tongshim with other triangular cosmological frameworks:
 
 | Cosmological System | Triangular Structure | Key Parallel with Tongsam Tongshim |
 |--------------------|---------------------|-------------------------------------|
-| **Hindu Trimurti** | Brahma (creation) – Vishnu (sustenance) – Shiva (dissolution) | Functional triad governing cosmic cycle |
+| **Hindu Trimūrti** | Brahma (creation) – Vishnu (sustenance) – Shiva (dissolution) | Functional triad governing cosmic cycle |
 | **Daoist Cosmology** | Heaven (Tian) – Earth (Di) – Humanity (Ren) | Relational triad with human responsibility |
 | **Hegelian Dialectic** | Thesis – Antithesis – Synthesis | Triadic movement toward resolution |
 | **Pre-Socratic Cosmology** | Anaximander's apeiron, Heraclitean fire and logos | Balance as cosmic principle |
@@ -413,10 +413,10 @@ A map (or descriptive inventory) of significant natural and sacred sites and the
 | Phase | Duration | Activity | Output |
 |-------|----------|----------|--------|
 | **Preparation** | 2–4 weeks | Literature review, participant recruitment, ethics approval | Interview guides, consent forms, participant list |
-| **Interview Phase** | 6–12 weeks | Conduct 15–25 phenomenological interviews (all 9 phases) | Interview transcripts, coded data |
+| **Interview Phase** | 8–16 weeks | Conduct 15–25 phenomenological interviews (all 9 phases), including scheduling, travel, transcription, and translation | Interview transcripts, coded data |
 | **Ritual Observation** | 6–12 months | Attend 3–5 major seasonal rituals with field notes | Field notes, photographs, video recordings |
 | **Textual Analysis** | 8–12 weeks | Analyze Mundhum corpus; apply thematic and structural methods | Thematic maps, structural schemas, narrative analysis |
-| **Synthesis and Writing** | 8–12 weeks | Integrate all data sources; produce philosophical analysis | Seminar paper section (20,000–30,000 words) |
+| **Synthesis and Writing** | 8–12 weeks | Integrate all data sources; produce philosophical analysis | Philosophical analysis chapter of the seminar paper (the section dedicated to Objective 3, approximately 20,000–30,000 words within the larger paper) |
 
 ---
 
