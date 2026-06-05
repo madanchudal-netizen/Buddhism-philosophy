@@ -26,6 +26,8 @@ As a researcher, I acknowledge the following:
 
 I am [*insert: insider Kirat community member / academic philosopher / cross-cultural philosophy researcher*] and my personal background in this tradition is [*insert positionality statement*].
 
+> **⚠ Researcher Note:** The bracketed fields above **must be completed** with the specific researcher's own positionality statement before this guide is used with participants. This section should reflect genuine self-disclosure rather than generic description.
+
 ---
 
 ## Section 2: Phenomenological Interview Principles
@@ -71,7 +73,10 @@ Before we begin, please be informed that:
 
 **Participant's preferred name/designation for research records:** ___________________________
 
-**Preferred identification in publication:** ☐ Full name ☐ Title/role only ☐ Anonymous pseudonym: _____________
+**Preferred identification in publication:**
+- [ ] Full name
+- [ ] Title/role only
+- [ ] Anonymous pseudonym: _____________
 
 **Date of consent:** ___________________________
 
@@ -80,19 +85,38 @@ Before we begin, please be informed that:
 ## Section 4: Participant Demographic Collection Form
 
 > *To be completed before or at the start of the interview. Participants may decline any field.*
+> **Note:** This section is designed for print use. For digital interviews, transfer these fields to a separate fillable form or digital survey tool.
 
-| Field | Response |
-|-------|----------|
-| Name (optional) | |
-| Age range | ☐ 30–45 ☐ 46–60 ☐ 61–75 ☐ 76+ |
-| Ethnic/community identity | |
-| Linguistic background (mother tongue) | |
-| Role/designation | ☐ Nakchhong ☐ Bijuwa/Mangpa ☐ Phedangma ☐ Community elder ☐ Academic philosopher ☐ Mundhum scholar ☐ Other: _______ |
-| Years of engagement with Mundhum tradition | |
-| Geographic/community affiliation | |
-| Formal education (if comfortable sharing) | |
-| Primary language for this interview | |
-| Any relevant specializations or expertise | |
+**Name (optional):** ___________________________
+
+**Age range:**
+- [ ] 30–45
+- [ ] 46–60
+- [ ] 61–75
+- [ ] 76+
+
+**Ethnic/community identity:** ___________________________
+
+**Linguistic background (mother tongue):** ___________________________
+
+**Role/designation:**
+- [ ] Nakchhong
+- [ ] Bijuwa/Mangpa
+- [ ] Phedangma
+- [ ] Community elder
+- [ ] Academic philosopher
+- [ ] Mundhum scholar
+- [ ] Other: ___________________________
+
+**Years of engagement with Mundhum tradition:** ___________________________
+
+**Geographic/community affiliation:** ___________________________
+
+**Formal education (if comfortable sharing):** ___________________________
+
+**Primary language for this interview:** ___________________________
+
+**Any relevant specializations or expertise:** ___________________________
 
 ---
 
