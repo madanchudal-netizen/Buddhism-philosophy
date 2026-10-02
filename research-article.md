@@ -6,9 +6,9 @@
 
 ## Abstract
 
-Modern Nepal is experiencing acute societal fragmentation arising from ethnic federalism, ideological polarization, secular-religious contestation, and the uncritical transplantation of Western liberal-democratic and Marxist frameworks. These imported models, predicated on binary opposition, possessive individualism, and class antagonism, have often intensified rather than healed the nation’s identity-based cleavages. This article proposes an indigenous Eastern philosophical framework for restoring social harmony and national integrity by synthesizing the six orthodox Hindu *Astika Darshanas* (*Samkhya*, *Yoga*, *Nyaya*, *Vaisheshika*, *Mimamsa*, and *Vedanta*), the heterodox Buddhist insights of *Pratītyasamutpāda* and *Madhyamaka*, and the Chinese traditions of Confucianism and Daoism. It further integrates distinctive Nepalese and Himalayan philosophical archives—*Shaiva* and *Pashupata* traditions, the *Upanishads*, the *Ashtavakra Gita* (rooted in the Janaka-Mithila heritage), Himalayan *Bon* cosmology, the Kirat *Mundhum*, and indigenous animist-shamanic institutions—into a coherent civilizational paradigm. Drawing on Alexander Dugin’s Fourth Political Theory, the article argues that Nepal should be reconceived as a multi-polar *Civilization-State* grounded in its own *Dasein* rather than as a derivative nation-state within a liberal unipole. Through qualitative desk research and comparative philosophical analysis, the study develops concrete policy recommendations for constitutional design, education, governance, and community reconciliation. The findings indicate that a plural yet unified civilizational identity—founded on non-duality, interdependence, moral duty, ritual reciprocity, and ecological sacredness—offers Nepal a more authentic and sustainable path to national integrity.
+Modern Nepal is experiencing acute societal fragmentation arising from ethnic federalism, ideological polarization, secular-religious contestation, and the uncritical transplantation of Western liberal-democratic and Marxist frameworks. These imported models, predicated on binary opposition, possessive individualism, and class antagonism, have often intensified rather than healed the nation’s identity-based cleavages. This article proposes an indigenous Eastern philosophical framework for restoring social harmony and national integrity by synthesizing the six orthodox Hindu *Astika Darshanas* (*Samkhya*, *Yoga*, *Nyaya*, *Vaisheshika*, *Mimamsa*, and *Vedanta*), the heterodox Buddhist insights of *Pratītyasamutpāda* and *Madhyamaka*, and the Chinese traditions of Confucianism and Daoism. It further integrates distinctive Nepalese and Himalayan philosophical archives—*Shaiva* and *Pashupata* traditions, the *Upanishads*, the *Ashtavakra Gita* (rooted in the Janaka-Mithila heritage), Himalayan *Bon* cosmology, the Kirat *Mundhum*, indigenous animist-shamanic institutions, and the *Divyopadesh* of King Prithvi Narayan Shah—into a coherent civilizational paradigm. Drawing on Alexander Dugin’s Fourth Political Theory, the article argues that Nepal should be reconceived as a multi-polar *Civilization-State* grounded in its own *Dasein* rather than as a derivative nation-state within a liberal unipole. Through qualitative desk research and comparative philosophical analysis, the study develops concrete policy recommendations for constitutional design, education, governance, and community reconciliation. The findings indicate that a plural yet unified civilizational identity—founded on non-duality, interdependence, moral duty, ritual reciprocity, and ecological sacredness—offers Nepal a more authentic and sustainable path to national integrity.
 
-**Keywords:** Nepal, national integrity, Shaivism, Kirat Mundhum, Himalayan Bon, Ashtavakra Gita, Upanishads, Advaita Vedanta, Madhyamaka, Fourth Political Theory, civilizational identity, indigenous philosophy.
+**Keywords:** Nepal, national integrity, Shaivism, Kirat Mundhum, Himalayan Bon, Ashtavakra Gita, Upanishads, Divyopadesh, Prithvi Narayan Shah, Advaita Vedanta, Madhyamaka, Fourth Political Theory, civilizational identity, indigenous philosophy.
 
 ---
 
@@ -16,7 +16,7 @@ Modern Nepal is experiencing acute societal fragmentation arising from ethnic fe
 
 ### 1.1 Nepal’s Civilizational Matrix and Contemporary Fragmentation
 
-Situated at the cultural and ecological interface of the Indian plains, the Tibetan plateau, and the Himalayan highlands, Nepal has historically functioned as a civilizational crossroads. Its social fabric is woven from multiple spiritual lineages: the *Shaiva* and *Vedantic* traditions of the Kathmandu Valley, the *Buddhist* monasticism of the Himalayan borderlands, the *Bon* and animist-shamanic practices of Tibeto-Burman communities, the *Mundhum* oral cosmology of the Kirat peoples, the Mithila philosophical heritage associated with King Janak, and the localized sacred geographies of countless valleys, rivers, and mountains. This plurality was not, for most of Nepalese history, experienced as a problem to be managed by imported theories; rather, it constituted a lived civilizational unity organized around ritual reciprocity, sacred kingship, caste and ethnic complementarity, and a shared Himalayan cosmology (Slusser, 1982; Levy, 1990).
+Situated at the cultural and ecological interface of the Indian plains, the Tibetan plateau, and the Himalayan highlands, Nepal has historically functioned as a civilizational crossroads. Its social fabric is woven from multiple spiritual lineages: the *Shaiva* and *Vedantic* traditions of the Kathmandu Valley, the *Buddhist* monasticism of the Himalayan borderlands, the *Bon* and animist-shamanic practices of Tibeto-Burman communities, the *Mundhum* oral cosmology of the Kirat peoples, the Mithila philosophical heritage associated with King Janak, the statecraft wisdom of King Prithvi Narayan Shah’s *Divyopadesh*, and the localized sacred geographies of countless valleys, rivers, and mountains. This plurality was not, for most of Nepalese history, experienced as a problem to be managed by imported theories; rather, it constituted a lived civilizational unity organized around ritual reciprocity, sacred kingship, caste and ethnic complementarity, and a shared Himalayan cosmology (Slusser, 1982; Levy, 1990).
 
 The contemporary period, however, has witnessed a deep fracturing of this civilizational coherence. The abolition of the Hindu monarchy in 2008, the declaration of secularism, the adoption of ethnic federalism, and the aftermath of the decade-long Maoist insurgency have together produced a political field marked by zero-sum competition among identities. Movements for Madhesi autonomy, Limbuwan, Tharuhat, and various Janajati demands have challenged the unitary nation-state, while Hindu nationalist organizations have resisted secularization and federal restructuring (Hangen, 2010; Lawoti & Hangen, 2013). These disputes are not merely administrative; they are ontological contests over the meaning of Nepal itself.
 
@@ -38,9 +38,10 @@ This article argues that Nepal possesses an extraordinarily rich indigenous phil
 4. *Shaiva* and *Pashupata* traditions of Nepal;
 5. Himalayan *Bon* and animist-shamanic cosmologies;
 6. The Kirat *Mundhum*;
-7. Buddhist *Madhyamaka* and *Pratītyasamutpāda*;
-8. Confucian and Daoist statecraft;
-9. Alexander Dugin’s Fourth Political Theory as a critical horizon.
+7. The *Divyopadesh* of King Prithvi Narayan Shah;
+8. Buddhist *Madhyamaka* and *Pratītyasamutpāda*;
+9. Confucian and Daoist statecraft;
+10. Alexander Dugin’s Fourth Political Theory as a critical horizon.
 
 The article has three interrelated objectives: (a) to demonstrate that Nepal’s philosophical traditions contain sophisticated resources for conflict resolution and governance; (b) to apply these resources to the specific problems of identity politics, federalism, secularism, and social reconciliation; and (c) to outline a strategic roadmap for policymakers, educators, and community leaders.
 
@@ -110,7 +111,25 @@ Among the Limbu, the supreme being is *Tagera Ningwaphuma*; among various Rai gr
 
 The *Mundhum* also contains institutions of governance. Village councils of elders, customary laws, and seasonal rituals such as *Sakela* and *Chandi Naach* renew communal bonds and regulate social relations. For Nepal’s federal experiment, the *Mundhum* suggests that autonomy need not mean ethnic separatism; it can mean the recognition of locally embedded moral and ecological communities within a larger civilizational whole.
 
-### 2.7 Buddhist Philosophy: *Pratītyasamutpāda* and *Madhyamaka*
+### 2.7 King Prithvi Narayan Shah’s *Divyopadesh*: Statecraft as Sacred Duty
+
+No discussion of Nepal’s indigenous political philosophy can be complete without the *Divyopadesh* (Divine Counsel) of King Prithvi Narayan Shah, the unifier of modern Nepal. Delivered at Nuwakot toward the end of his life and preserved initially through oral transmission before being compiled in written form, the *Divyopadesh* is both a political testament and a work of practical statecraft. It articulates a vision of Nepal as a “garden of four castes and thirty-six sub-castes” (*char jaat chhattis varna ko phulbaru*), a metaphor that has become central to Nepalese self-understanding (Prithvi Narayan Shah, 2013; Regmi, 1995; Karmacharya, 2005).
+
+The *Divyopadesh* contains several philosophical principles directly relevant to the restoration of national integrity.
+
+**Unity in diversity.** The garden metaphor affirms that Nepal’s multiple castes and ethnicities are not competitors but complementary flowers in a single garden. This anticipates modern multiculturalism but frames it within an indigenous vocabulary of organic unity rather than liberal pluralism. It suggests that national integrity is achieved not by erasing difference but by cultivating it within a shared civilizational space.
+
+**Fortress state and geopolitical vigilance.** The text famously describes Nepal as a “yam between two boulders” (*dui goda ko tarul*), situated between the Mughal-Indian and Tibetan-Chinese spheres of influence. This geopolitical realism counsels vigilance, self-reliance, and the preservation of sovereignty against larger neighbors. For contemporary Nepal, this principle translates into a non-aligned foreign policy that avoids subordination to any single external power while maintaining friendly relations with all.
+
+**Moral economy and anti-corruption.** The *Divyopadesh* warns against greed, extortion, and the exploitation of subjects. A king, it argues, must rule with justice, protect the people, and maintain the economic prosperity of the realm. This aligns with Confucian moral governance and the *Dharma*-based ideal of the philosopher-king. Corruption in modern Nepal can thus be understood not merely as an administrative failure but as a violation of the sacred duty entrusted to rulers.
+
+**Military discipline and social mobilization.** The text emphasizes the importance of a disciplined army and the mobilization of diverse communities for national defense. In the contemporary context, this principle can be reinterpreted as civic mobilization for national development, disaster resilience, and environmental conservation.
+
+**Religious duty and sacred kingship.** Although the *Divyopadesh* is rooted in Hindu kingship, its underlying principle—that political authority is accountable to a higher moral and religious order—can be secularized into a constitutional principle: the state is accountable to civilizational ethics, not merely to electoral majorities or market forces.
+
+Critically, the *Divyopadesh* should not be read as a charter for Hindu chauvinism or authoritarian centralism. Its garden metaphor is explicitly pluralist, and its insistence on justice and prosperity applies to all subjects regardless of caste or creed. For modern Nepal, it offers a model of civilizational statecraft that is simultaneously pluralist, sovereign, and morally accountable.
+
+### 2.8 Buddhist Philosophy: *Pratītyasamutpāda* and *Madhyamaka*
 
 The Buddha’s teaching of *Pratītyasamutpāda* (interdependent co-arising) states that all phenomena arise in dependence upon conditions; nothing possesses an independent, self-subsisting essence. Applied to Nepali society, this undermines the myth of ethnically pure, autonomous communities. Hill and Terai, Hindu and Buddhist, Bahun-Chhetri and Janajati groups have co-constituted one another through centuries of migration, trade, intermarriage, shared ritual, and political alliance (Gethin, 1998; Garfield, 1995).
 
@@ -158,11 +177,19 @@ The Middle Way offers a practical method for policy design. Federal restructurin
 
 Confucian *he* (harmony) suggests that unity is not uniformity but the coordinated flourishing of differences. Indigenous institutions such as *guthis*, *kipat* land systems, Kirat village councils, and local *dhami-jhankri* mediation networks are practical expressions of this harmony. Daoist *wu wei* counsels the state to support these local institutions rather than to override them with centralized schemes. A structurally harmonious Nepal would thus combine constitutional federalism with customary self-governance, allowing local communities to manage disputes, resources, and rituals according to their own traditions.
 
-### 3.5 Re-establishing Nepal as a Multi-Polar Civilization-State
+### 3.5 The *Divyopadesh* as a Living Framework for National Integrity
+
+King Prithvi Narayan Shah’s *Divyopadesh* is not merely a historical document; it is a living framework for thinking about Nepal’s unity. Its central image of Nepal as a “garden of four castes and thirty-six sub-castes” directly challenges the reductive binaries of ethnic federalism and Hindu nationalism alike. The garden is plural by definition, but its flowers are not autonomous monads; they are nourished by the same soil, watered by the same sources, and protected within the same enclosure.
+
+Applied to modern Nepal, the *Divyopadesh* suggests three practical orientations. First, national integrity should be conceived as an organic achievement rather than a mechanical compromise among interest groups. Federal provinces should function as complementary sub-gardens within the national garden, each cultivating its own identity while contributing to the whole. Second, sovereignty requires constant care. Just as a gardener must weed, water, and protect, the state must actively prevent corruption, foreign domination, and internal fragmentation. Third, leadership is a sacred trust. Rulers who exploit the people or sell national interests betray the *Dharma* of kingship, regardless of their electoral legitimacy.
+
+The *Divyopadesh* also offers a civilizational alternative to the Western model of the nation-state. The latter tends to equate national unity with linguistic, ethnic, or ideological homogeneity. By contrast, the Nepali garden metaphor explicitly affirms plurality as the natural condition of the polity. This makes the *Divyopadesh* philosophically compatible with *Advaita*, *Pratītyasamutpāda*, *Mundhum*, Bon, and Confucian harmony: all these traditions affirm unity-in-diversity rather than unity-through-sameness.
+
+### 3.6 Re-establishing Nepal as a Multi-Polar Civilization-State
 
 Dugin’s concept of the *Civilization-State* is especially pertinent for Nepal’s geopolitical self-positioning. Sandwiched between India and China, Nepal has historically balanced these civilizational powers while maintaining distinct religious, linguistic, and political traditions. The modern pressure to choose between Western liberal democracy and various authoritarian models is itself a product of unipolar thinking.
 
-Nepal can instead articulate a multi-polar civilizational identity: a Himalayan-Hindu-Buddhist-Kirat-Bon-Mithila polity that maintains friendly relations with India, China, and the West without subordinating itself to any. This requires rejecting the false binary between “tradition” and “modernity” and recognizing that Nepal’s traditions contain resources for modern self-governance. The Civilization-State model does not imply isolationism; it implies engagement from a position of rooted self-confidence. The Himalayas, Pashupatinath, Lumbini, Janakpur, Kirat sacred groves, and Bon holy mountains are not tourist commodities but ontological anchors of Nepali *Dasein*.
+Nepal can instead articulate a multi-polar civilizational identity: a Himalayan-Hindu-Buddhist-Kirat-Bon-Mithila polity that maintains friendly relations with India, China, and the West without subordinating itself to any. The *Divyopadesh*’s image of Nepal as a “yam between two boulders” provides a vernacular expression of this non-aligned realism. The Civilization-State model does not imply isolationism; it implies engagement from a position of rooted self-confidence. The Himalayas, Pashupatinath, Lumbini, Janakpur, Kirat sacred groves, and Bon holy mountains are not tourist commodities but ontological anchors of Nepali *Dasein*.
 
 ---
 
@@ -170,17 +197,19 @@ Nepal can instead articulate a multi-polar civilizational identity: a Himalayan-
 
 ### 4.1 Constitutional and Institutional Reforms
 
-1. **Preamble to a Civilizational Constitution.** Amend the constitutional preamble to recognize Nepal as a plural *Civilization-State* rooted in Hindu, Buddhist, Shaiva, Kirat Mundhum, Bon, animist, and Mithila philosophical traditions, while guaranteeing equal rights to all religious and cultural communities. Secularism should be interpreted as *sarva dharma samabhava*—equal respect for all faiths—rather than as state neutrality or hostility toward tradition.
+1. **Preamble to a Civilizational Constitution.** Amend the constitutional preamble to recognize Nepal as a plural *Civilization-State* rooted in Hindu, Buddhist, Shaiva, Kirat Mundhum, Bon, animist, Mithila, and *Divyopadesh* statecraft traditions, while guaranteeing equal rights to all religious and cultural communities. Secularism should be interpreted as *sarva dharma samabhava*—equal respect for all faiths—rather than as state neutrality or hostility toward tradition.
 
-2. **Middle-Way Federalism.** Review provincial boundaries and competencies to ensure they foster multi-ethnic cooperation rather than ethnic encapsulation. Establish inter-provincial councils and a National Civilizational Heritage Commission.
+2. **Middle-Way Federalism as a National Garden.** Review provincial boundaries and competencies to ensure they foster multi-ethnic cooperation rather than ethnic encapsulation, guided by the *Divyopadesh* metaphor of Nepal as a garden of diverse communities. Establish inter-provincial councils and a National Civilizational Heritage Commission.
 
 3. **Truth and Reconciliation through Restorative Philosophy.** Design transitional justice mechanisms informed by *satya*, *ahimsa*, Shaiva recognition of shared divinity, and Kirat/Bon ritual restoration. Victim-centered dialogue should be accompanied by community rituals of purification and renewal.
 
-4. **Evidence-Based and Dialogical Governance.** Require policy deliberation to meet *Nyaya*-style standards of evidence and logical consistency. Establish permanent public philosophy forums at national and provincial levels.
+5. **Anti-Corruption as a Civilizational Duty.** Frame anti-corruption policy within the *Divyopadesh* principle that rulers hold a sacred trust to protect the people and the nation’s prosperity. Establish independent integrity bodies with moral as well as legal accountability.
+
+6. **Evidence-Based and Dialogical Governance.** Require policy deliberation to meet *Nyaya*-style standards of evidence and logical consistency. Establish permanent public philosophy forums at national and provincial levels.
 
 ### 4.2 Educational Transformation
 
-1. **Civilizational Studies Curriculum.** Integrate comparative Nepalese philosophy—Shaiva Agamas, Upanishads, Ashtavakra Gita, Buddhist *Madhyamaka*, Kirat Mundhum, Bon cosmology, Confucianism, and Daoism—into school and university curricula. The goal is not religious indoctrination but philosophical literacy and ethical citizenship.
+1. **Civilizational Studies Curriculum.** Integrate comparative Nepalese philosophy—Shaiva Agamas, Upanishads, Ashtavakra Gita, Buddhist *Madhyamaka*, Kirat Mundhum, Bon cosmology, the *Divyopadesh*, Confucianism, and Daoism—into school and university curricula. The goal is not religious indoctrination but philosophical literacy and ethical citizenship.
 
 2. **Teacher Formation in Indigenous Philosophy.** Train teachers in dialogical and dialectical methods inspired by *Madhyamaka* and Confucian pedagogy, enabling students to hold multiple perspectives without falling into relativism or dogmatism.
 
@@ -208,7 +237,9 @@ This article opens several avenues for empirical and theoretical investigation:
 
 3. **Federalism and Sacred Geography.** Analysis of how provincial boundaries align—or conflict—with indigenous sacred territories and ritual networks.
 
-4. **Janaka and Nepalese Political Imagination.** A reception-history of King Janak in Nepalese literature, education, and political rhetoric, exploring his potential as a symbol of philosopher-kingship.
+4. **Janaka, Prithvi Narayan Shah, and Nepalese Political Imagination.** A reception-history of King Janak and King Prithvi Narayan Shah in Nepalese literature, education, and political rhetoric, exploring their potential as complementary symbols of philosopher-kingship and civilizational statecraft.
+
+5. **Divyopadesh and Contemporary Governance.** Empirical studies on how the *Divyopadesh* is interpreted across Nepal’s political spectrum and how its garden metaphor can inform constitutional design and intergroup relations.
 
 5. **Comparative Civilization-State Studies.** Comparative analysis of Nepal with other civilization-states (India, China, Russia, Iran) to identify distinctive features of Himalayan civilizational pluralism.
 
@@ -218,9 +249,9 @@ This article opens several avenues for empirical and theoretical investigation:
 
 ## 6. Conclusion
 
-Modern Nepal’s societal disputes cannot be resolved by applying Western political templates designed for different civilizational conditions. Liberalism’s atomized individualism and Marxism’s antagonistic collectivism have both deepened divisions by ignoring the integrative, harmonic, and transcendent dimensions of Nepali culture. This article has argued that Nepal possesses an exceptionally rich philosophical archive—encompassing the *Astika* systems, the *Upanishads*, the *Ashtavakra Gita*, *Shaiva* and *Pashupata* traditions, Himalayan *Bon*, the Kirat *Mundhum*, Buddhist *Madhyamaka*, Confucianism, and Daoism—that offers a more adequate foundation for national reconciliation.
+Modern Nepal’s societal disputes cannot be resolved by applying Western political templates designed for different civilizational conditions. Liberalism’s atomized individualism and Marxism’s antagonistic collectivism have both deepened divisions by ignoring the integrative, harmonic, and transcendent dimensions of Nepali culture. This article has argued that Nepal possesses an exceptionally rich philosophical archive—encompassing the *Astika* systems, the *Upanishads*, the *Ashtavakra Gita*, *Shaiva* and *Pashupata* traditions, Himalayan *Bon*, the Kirat *Mundhum*, the *Divyopadesh* of King Prithvi Narayan Shah, Buddhist *Madhyamaka*, Confucianism, and Daoism—that offers a more adequate foundation for national reconciliation.
 
-Through *Advaita* and Shaiva immanence, Nepal can transcend the reification of identity without dissolving legitimate diversity. Through *Pratītyasamutpāda*, *Mundhum*, and Bon cosmology, it can recognize the mutual constitution and sacred embeddedness of its communities. Through the Middle Way and Confucian harmony, it can design governance structures that balance unity and autonomy. Through Daoist *wu wei* and indigenous customary institutions, it can reduce state-society friction and honor local knowledge. Through King Janak’s royal yoga, it can envision leadership as Self-knowledge and service. And through Dugin’s Fourth Political Theory, critically adapted, Nepal can assert its civilizational sovereignty against globalist homogenization without falling into hegemony.
+Through *Advaita* and Shaiva immanence, Nepal can transcend the reification of identity without dissolving legitimate diversity. Through *Pratītyasamutpāda*, *Mundhum*, and Bon cosmology, it can recognize the mutual constitution and sacred embeddedness of its communities. Through the Middle Way and Confucian harmony, it can design governance structures that balance unity and autonomy. Through Daoist *wu wei* and indigenous customary institutions, it can reduce state-society friction and honor local knowledge. Through King Janak’s royal yoga, it can envision leadership as Self-knowledge and service. Through the *Divyopadesh*, it can recover an indigenous vocabulary of national integrity as a garden of complementary communities. And through Dugin’s Fourth Political Theory, critically adapted, Nepal can assert its civilizational sovereignty against globalist homogenization without falling into hegemony.
 
 The restoration of national integrity is thus not a project of forced assimilation but of philosophical recovery. Nepal must look inward to its own vast intellectual, spiritual, and ecological inheritance to discover the conceptual resources for peace, order, and flourishing. In doing so, it can offer the world a model of civilizational resilience: a diverse yet united polity rooted in *Dharma*, harmony, sacred geography, and the recognition that all beings are ultimately one family.
 
@@ -280,6 +311,8 @@ Lawoti, M., & Hangen, S. (Eds.). (2013). *Nationalism and ethnic conflict in Nep
 
 Levy, R. I. (1990). *Mesocosm: Hinduism and the organization of a traditional Newar city in Nepal*. University of California Press.
 
+Karmacharya, M. R. (2005). *Kingship in Nepal: Historical and cultural perspectives*. Ratna Pustak Bhandar.
+
 Lipner, J. (2012). *Hindus: Their religious beliefs and practices* (2nd ed.). Routledge.
 
 Lorenzen, D. N. (1972). *The Kāpālikas and Kālāmukhas: Two lost Śaivite sects*. University of California Press.
@@ -298,7 +331,11 @@ Olivelle, P. (1996). *Upaniṣads*. Oxford University Press.
 
 Patañjali. (2009). *The yoga sutras of Patañjali* (E. F. Bryant, Trans. & Ed.). North Point Press.
 
+Prithvi Narayan Shah. (2013). *Divyopadesh* (D. R. Regmi, Ed.). Nepal Academy. (Original work recorded late 18th century)
+
 Radhakrishnan, S. (1927). *Indian philosophy* (Vols. 1–2). George Allen & Unwin.
+
+Regmi, D. R. (1995). *Modern Nepal: Rise and growth in the eighteenth century*. Firma K. L. Mukhopadhyay.
 
 Samuel, G. (1993). *Civilized shamans: Buddhism in Tibetan societies*. Smithsonian Institution Press.
 
